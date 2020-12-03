@@ -1,0 +1,6 @@
+LOGFILE /var/log/daemon.log
+X/org.freedesktop.NetworkManagerUserSettings/
+# daemon messages
+1/INFO/
+2/WARNING/
+3/ERROR/

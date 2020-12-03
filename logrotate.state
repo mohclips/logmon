@@ -1,0 +1,8 @@
+logrotate state -- version 2
+"/opt/logmon/html/index_7.html" 2020-2-9-17:25:47
+"/opt/logmon/html/index_5.html" 2020-2-9-17:25:47
+"/opt/logmon/html/index_3.html" 2020-2-9-17:25:47
+"/opt/logmon/html/index_1.html" 2020-12-3-20:0:1
+"/opt/logmon/html/index_6.html" 2020-2-9-17:25:47
+"/opt/logmon/html/index_4.html" 2020-2-9-17:25:47
+"/opt/logmon/html/index_2.html" 2020-2-9-17:25:47
